@@ -99,7 +99,7 @@ I’m a <b>Software Engineering graduate (GPA: 84)</b> with a deep passion for b
 
 ### 🔗 Connect with me
 <div align="left">
-  <a href="www.linkedin.com/in/momen-rami" target="blank">
+  <a href="https://www.linkedin.com/in/momen-rami?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mumenrami1411@gmail.com" target="blank">
