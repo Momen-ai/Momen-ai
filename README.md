@@ -1,115 +1,89 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Mo'men Rami</h1>
-  <p><strong>Software Engineer & Backend Developer 🚀</strong></p>
-  <p>Building scalable backend systems and robust web applications with the <b>TALL stack</b>.</p>
+
+# Hi, I'm Momen Rami 👋
+### Computer Systems Engineer | Backend Developer (Laravel · PHP · MySQL)
+
+📍 Gaza, Palestine &nbsp;|&nbsp; 🎓 Al-Azhar University (GPA 84%)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momen-rami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://momen-ai.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mumenrami1411@gmail.com)
+
 </div>
 
-<hr>
+---
 
-<div align="left">
-  <h3>🔭 &nbsp; Career & Focus</h3>
-  <ul>
-    <li>Currently focusing on <b>Laravel Ecosystem</b> & complex backend architectures.</li>
-    <li>Improving my skills in <b>System Design</b>, <b>Query Optimization</b>, and <b>Clean Architecture</b>.</li>
-    <li>Focused on writing <b>clean, maintainable, and production-ready code</b>.</li>
-  </ul>
-</div>
+## About Me
 
-<hr>
+I design and build scalable web applications with **PHP**, **Laravel**, and **MySQL** — RESTful APIs, relational database design, and authentication/authorization systems. I've deployed production applications on live servers for real clients, handling everything from architecture to server configuration.
 
-### 🚀 About Me
-<p>
-I’m a <b>Software Engineering graduate (GPA: 84)</b> with a deep passion for backend logic and architectural patterns. My journey is driven by a commitment to building high-performance systems that solve real-world problems.
-</p>
+Currently open to **freelance and remote backend/full-stack roles**.
 
-- 🎓 **Graduate**: Software Engineering (2024)
-- 🏢 **Experience**: Backend Internship at <i>Code Tech</i> (2025) & <i>Vision Plus</i> (2023)
+---
 
-<hr>
+## Tech Stack
 
-### 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="left">
-  <b>Backend & Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="25">
-  <br><br>
-  <b>Frontend:</b><br>
-  <img src="https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=flat&logo=alpine.js&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="25">
-  <br><br>
-  <b>Database & Tools:</b><br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" height="25">
-</div>
+**Core competencies:** RESTful API Design · MVC Architecture · Role-Based Access Control · Database Design · Authentication Systems · CI/CD (GitHub Actions) · Production Deployment
 
-<hr>
+---
 
-### 📌 Featured Projects
+## Featured Projects
 
-<details open>
-  <summary><b>🍽️ Wajbati Platform (Full Stack Laravel)</b></summary>
-  <p>Connecting home-based cooks with customers, designed with a focus on role-based access and smooth order lifecycles.</p>
-  <ul>
-    <li><b>Key Features:</b> Multi-Role (Admin/Cook/Customer), Meal CRUD, Order Lifecycle, Localization (AR/EN).</li>
-    <li><b>Tech:</b> Laravel, Alpine.js, Tailwind CSS, MySQL.</li>
-    <li>
-      <a href="https://github.com/Momen-ai/wajbati">Backend Repo</a> | 
-      <a href="https://github.com/Momen-ai/wajbati-front">Frontend Repo</a> | 
-      <a href="https://momen-ai.github.io/wajbati-front/">🌐 Live Demo</a>
-    </li>
-  </ul>
-</details>
+### 🎓 [Seeds of Future Academy](https://seeds-of-future.com)
+Full-stack educational platform for high school students — online exams across Scientific, Literary, and Sharia tracks.
 
-<details>
-  <summary><b>🏥 Right Guide (Backend Specialist)</b></summary>
-  <p>A medical directory and consultation platform bridging the gap between patients and healthcare providers.</p>
-  <ul>
-    <li><b>Key Features:</b> Provider Directory, Search/Filter, Booking Engine, CMS for Medical Articles.</li>
-    <li><b>Tech:</b> Laravel, MySQL.</li>
-    <li>
-      <a href="https://github.com/Momen-ai/Right-Guide">Repo Link</a>
-    </li>
-  </ul>
-</details>
+- Multi-role auth system (Admin / Teacher / Student) with RBAC via Laravel middleware
+- Dynamic quiz engine: timed exams, question images, auto-grading
+- Relational DB with 10+ tables (users, specializations, courses, quizzes, results)
+- Deployed on Hostinger — custom domain, HTTPS, Vite pipeline, SEO (sitemap, Schema.org, Search Console)
+- **1,300+ student exams processed in production**
 
-<details>
-  <summary><b>💼 Personal Portfolio (Full Stack)</b></summary>
-  <p>A professional showcase of my technical journey, fully dynamic and managed via a backend dashboard.</p>
-  <ul>
-    <li><b>Key Features:</b> Project Management Panel, Dynamic Skill Tracking, Responsive UI.</li>
-    <li><b>Tech:</b> Laravel, Alpine.js, Tailwind CSS, Vite.</li>
-    <li>
-      <a href="https://github.com/Momen-ai/Momen-Portfolio">Backend Repo</a> | 
-      <a href="https://github.com/Momen-ai/Portfolio">Frontend Repo</a> | 
-      <a href="https://momen-ai.github.io/Portfolio/">🌐 Live Demo</a>
-    </li>
-  </ul>
-</details>
+`Laravel 13` `PHP 8.3` `MySQL` `Bootstrap 5` `Vite`
 
-<hr>
+---
 
+### 🍽️ [Wajbati](https://momen-ai.github.io/wajbati-front/) — Food Ordering Platform
+Full-stack platform connecting home-based cooks with customers.
 
-### 🔗 Connect with me
-<div align="left">
-  <a href="https://www.linkedin.com/in/momen-rami?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mumenrami1411@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+- RESTful APIs for users, orders, and authentication
+- MVC-structured backend with secure auth/authorization
+- API endpoints tested via Postman
+- [Backend](https://github.com/Momen-ai/wajbati) · [Frontend](https://github.com/Momen-ai/wajbati-front)
 
-<hr>
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+---
+
+### 💼 [Portfolio Website](https://momen-ai.github.io/Portfolio/)
+Personal portfolio built on Laravel 12 with an admin dashboard for managing projects, testimonials, and experience — actively iterating based on structured technical audits.
+
+`Laravel 12` `MySQL` `Blade`
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <p>🚀 Building scalable backend systems & looking for backend opportunities!</p>
+
+![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Momen-ai&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Momen-ai&layout=compact&hide_border=true)
+
 </div>
 
+---
+
+## Let's Connect
+
+I'm actively looking for **Backend Developer**, **Full-Stack Developer**, and **API Developer** opportunities (freelance or remote).
+
+📧 [mumenrami1411@gmail.com](mailto:mumenrami1411@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/momen-rami) &nbsp;|&nbsp; 🌐 [Portfolio](https://momen-ai.github.io/Portfolio/)
