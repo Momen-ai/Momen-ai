@@ -46,7 +46,7 @@ Full-stack educational platform for high school students — online exams across
 - Dynamic quiz engine: timed exams, question images, auto-grading
 - Relational DB with 10+ tables (users, specializations, courses, quizzes, results)
 - Deployed on Hostinger — custom domain, HTTPS, Vite pipeline, SEO (sitemap, Schema.org, Search Console)
-- **1,300+ student exams processed in production**
+- **3500+ student exams processed in production**
 
 `Laravel 13` `PHP 8.3` `MySQL` `Bootstrap 5` `Vite`
 
@@ -69,16 +69,6 @@ Personal portfolio built on Laravel 12 with an admin dashboard for managing proj
 
 `Laravel 12` `MySQL` `Blade`
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Momen-ai&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Momen-ai&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
